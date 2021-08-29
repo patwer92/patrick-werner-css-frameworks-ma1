@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background: $body-color;
+  height: 100%;
+}
+
+h1 {
+  color: $primary-color;
+  font-family: $primary-font;
+  font-size: $font-34;
+}
+
+.container-fluid {
+  width: 90%;
+}

@@ -1,0 +1,31 @@
+.box {
+  height: 21rem;
+}
+
+.crimson-bg {
+  background: $crimson-color;
+}
+
+.white-bg {
+  background: $white-color;
+}
+
+.lightgrey-bg {
+  background: $lightgrey-color;
+}
+
+.darkgrey-bg {
+  background: $darkgrey-color;
+}
+
+.crimson-border {
+  border: 3px solid $crimson-color;
+}
+
+.white-border {
+  border: 3px solid $white-color;
+}
+
+.b-radius {
+  border-radius: 1rem;
+}
